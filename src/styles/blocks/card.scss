@@ -1,6 +1,7 @@
 .card {
   // width: $card-width;
-  height: $card-height;
+  // removed height due graphic pixel perfect tests problems
+  // height: $card-height;
   padding: $card-padding;
 
   // border: 1px solid $color-white;
